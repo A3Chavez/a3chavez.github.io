@@ -1,5 +1,3 @@
-alert("Hello, world!")
-
 function bigger() {
     alert("Font Size has been changed to 24 pt");
     var words = document.getElementById("words");
